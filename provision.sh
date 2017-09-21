@@ -1,6 +1,9 @@
 #!/bin/bash -e
 #set -e -x
 
+# Portions of this provisioning script are modeled after the scripts from the
+# 'haskell-vim-now' project: https://github.com/begriffs/haskell-vim-now
+
 msg() { echo -e "--- $@" ; }
 err() { echo -e "*** $@" 1>&2; }
 exit_err() {
