@@ -13,6 +13,8 @@ Loads a Virtualbox VM of Ubuntu 14.04 LTS (Trusty Tahr) and provisions with the 
 
 ## Usage
 
+Plop the `Vagrantfile` and `provision.sh` in whatever directory you prefer, and from that directory:
+
 ```sh
 # Spin up the VM
 vagrant up
