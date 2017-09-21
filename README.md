@@ -34,13 +34,13 @@ The following can be specified in environment variables if customization is nece
 <table>
 <tbody>
   <thead>
-    <td>Name</td><td>Description</td><td>Default</td>
+    <th>Name</th><th>Description</th><th>Default</th>
   </thead>
   <tr>
-    <td>VHM_BOX_NAME</td><td>Name of the VM</td><td><pre>vagrant-haskell-minimal</pre></td>
+    <td>VHM_BOX_NAME</td><td>Name of the VM</td><td>vagrant-haskell-minimal</td>
   </tr>
   <tr>
-    <td>VHM_ENV_NAME</td><td>Name of the environment</td><td><pre>dev</pre></td>
+    <td>VHM_ENV_NAME</td><td>Name of the environment</td><td>dev</td>
   </tr>
   <tr>
     <td>VHM_MEMORY</td><td>Amount of memory (MB)</td><td>4096</td>
