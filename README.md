@@ -4,7 +4,7 @@
 
 Extremely minimal Vagrant VM config for Haskell development.
 
-Loads an Virtualbox VM of Ubuntu 14.04 LTS (Trusty Tahr) and provisions with the following software:
+Loads a Virtualbox VM of Ubuntu 14.04 LTS (Trusty Tahr) and provisions with the following software:
 
 * `git`
 * `vim`
@@ -53,6 +53,8 @@ The following can be specified in environment variables if customization is nece
 
 ## Compatibility
 
-This VM has been tested using Vagrant 2.0.0 and Virtualbox 5.1.28 r117968 from a Windows 10 host.  Please let me know if it works for you on other platforms!
+This VM has been tested using Vagrant 2.0.0 and Virtualbox 5.1.28 r117968 from a Windows 10 host.
+
+Please let me know if it works for you on other platforms!
 
 [vagrant-haskell-minimal]: https://github.com/jship/vagrant-haskell-minimal
